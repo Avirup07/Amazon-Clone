@@ -35,7 +35,7 @@
 }
 
 .logo {
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -129,7 +129,7 @@
 }
 
 .us-flag {
-    background-image: url(images/usa-flag.png);
+    background-image: url(usa-flag.png);
     background-size: cover;
     height: 16px;
     width: 22px;
@@ -213,7 +213,7 @@
 /* MAIN SECTION */
 
 .hero-section {
-    background-image: url(images/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     background-size: cover;
     height: 320px;
     display: flex;
@@ -280,7 +280,7 @@
 }
 
 .box1-img {
-    background-image: url(/images/box1_image.jpg);
+    background-image: url(box1_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -292,7 +292,7 @@
 }
 
 .box2-img {
-    background-image: url(/images/box2_image.jpg);
+    background-image: url(box2_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -304,7 +304,7 @@
 }
 
 .box3-img {
-    background-image: url(/images/box3_image.jpg);
+    background-image: url(box3_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -316,7 +316,7 @@
 }
 
 .box4-img {
-    background-image: url(/images/box4_image.jpg);
+    background-image: url(box4_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -328,7 +328,7 @@
 }
 
 .box5-img {
-    background-image: url(/images/box5_image.jpg);
+    background-image: url(box5_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -340,7 +340,7 @@
 }
 
 .box6-img {
-    background-image: url(/images/box6_image.jpg);
+    background-image: url(box6_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -352,7 +352,7 @@
 }
 
 .box7-img {
-    background-image: url(/images/box7_image.jpg);
+    background-image: url(box7_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -364,7 +364,7 @@
 }
 
 .box8-img {
-    background-image: url(/images/box8_image.jpg);
+    background-image: url(box8_image.jpg);
     background-size: cover;
     height: 300px;
     margin: 0.9rem 0 0.9rem 0;
@@ -438,7 +438,7 @@
 }
 
 .footer-amazon-logo {
-    background-image: url(/images/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -489,7 +489,7 @@
 }
 
 .footer-us-flag {
-    background-image: url(images/usa-flag.png);
+    background-image: url(usa-flag.png);
     background-size: cover;
     height: 12px;
     width: 18px;
